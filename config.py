@@ -1,0 +1,4 @@
+
+# 51ym token
+YM_TOKEN = "00734818c5137d6540598eaa1df66b2c0b903f619801"
+
